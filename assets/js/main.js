@@ -161,7 +161,14 @@
    * Initiate glightbox
    */
   const glightbox = GLightbox({
-    selector: '.glightbox'
+    selector: '.glightbox',
+    youtube: {
+      controls: 0,          // Menyembunyikan kontrol video
+      rel: 0,               // Menonaktifkan video terkait
+      modestbranding: 1,    // Mengurangi branding YouTube
+      playsinline: 1,       // Memastikan video diputar inline (tidak fullscreen)
+      autoplay: 1,          // Otomatis mulai video saat dimuat
+    },
   });
 
 })();

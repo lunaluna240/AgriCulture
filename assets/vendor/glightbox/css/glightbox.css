@@ -937,3 +937,9 @@ iframe.wait-autoplay {
     background: #000;
   }
 }
+
+.glightbox-container .gslide-media iframe {
+  aspect-ratio: 9 / 16; /* Rasio aspek vertikal untuk shorts */
+  width: 100%;
+  height: auto;
+}
