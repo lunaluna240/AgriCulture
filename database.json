@@ -1,0 +1,51 @@
+{
+    "blog_posts": [
+      {
+        "id": 1,
+        "image": "assets/img/blog/blog-1.png",
+        "date": "2025-12-07",
+        "author": "Sekar",
+        "category": "Workshop",
+        "title": "Workshop Merangkai Bunga dan Meditasi untuk Keberlanjutan",
+        "summary": "Workshop ini bertujuan untuk meningkatkan kreativitas dan memberikan pengalaman relaksasi kepada peserta...",
+        "link": "blog-details.html?id=1",
+        "content": {
+          "banner": "assets/img/blog/blog-1.jpg",
+          "full_text": [
+            "Pada Sabtu, 7 Desember 2025 telah dilaksanakan workshop bertema “Merangkai Bunga dan Meditasi”...",
+            "Pada sesi pertama, instruktur atau narasumber memberikan penjelasan teori mengenai seni merangkai bunga...",
+            "Sesi praktik merangkai bunga dimulai setelah teori...",
+            "Setelah sesi merangkai bunga selesai, kegiatan dilanjutkan dengan sesi meditasi terpandu selama 10 menit...",
+            "Workshop diakhiri dengan penyampaian kesan dan pesan dari peserta..."
+          ],
+          "inside_image": "assets/img/blog/blog-inside-post.png",
+          "category": "Business",
+          "tags": ["Creative", "Tips", "Marketing"]
+        }
+      },
+      {
+        "id": 2,
+        "image": "assets/img/blog/blog-2.png",
+        "date": "2025-12-07",
+        "author": "Dheva",
+        "category": "Workshop",
+        "title": "Workshop Membuat Lilin dari Minyak Jelantah",
+        "summary": "Pelajari cara mendaur ulang minyak jelantah menjadi lilin yang bermanfaat...",
+        "link": "blog-details.html?id=2",
+        "content": {
+          "banner": "assets/img/blog/blog-2.jpg",
+          "full_text": [
+            "Minyak jelantah sering kali dibuang, tetapi sebenarnya bisa dimanfaatkan...",
+            "Dalam workshop ini, peserta diajarkan bagaimana mengolah minyak jelantah...",
+            "Proses pembuatan lilin dimulai dengan menyaring minyak...",
+            "Setelah bahan siap, peserta mencetak lilin dengan berbagai bentuk...",
+            "Workshop ditutup dengan sesi diskusi mengenai manfaat ekonomi dari daur ulang minyak jelantah..."
+          ],
+          "inside_image": "assets/img/blog/blog-inside-post-2.png",
+          "category": "Sustainability",
+          "tags": ["Eco-friendly", "DIY", "Upcycling"]
+        }
+      }
+    ]
+  }
+  

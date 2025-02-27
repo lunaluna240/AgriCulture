@@ -782,7 +782,7 @@ section,
 .section-title p {
   margin-bottom: 0;
   font-family: var(--heading-font);
-  font-size: 32px;
+  font-size: 22px;
 }
 
 /*--------------------------------------------------------------
@@ -822,7 +822,7 @@ section,
 
 .hero .carousel-item:before {
   content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 60%);
+  background: color-mix(in srgb, var(--background-color), transparent 100%);
   position: absolute;
   inset: 0;
   z-index: 2;
@@ -1079,6 +1079,7 @@ section,
 .services-2 {
   overflow: visible;
   margin-bottom: 200px;
+  background: bottom;
 }
 
 .services-2 .section-title {
@@ -1086,13 +1087,13 @@ section,
 }
 
 .services-2 .section-title h2 {
-  color: color-mix(in srgb, var(--contrast-color), transparent 50%);
+  color: black;
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 28px;
 }
 
 .services-2 .section-title p {
-  color: var(--contrast-color);
+  color:  #000;
 }
 
 .services-2 .services-carousel-wrap {
